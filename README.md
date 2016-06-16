@@ -5,7 +5,7 @@ Netbeans is an IDE that allows you to quickly and easily develop desktop, mobile
 Netbeans Portable is the Netbeans text editor packaged with a PortableApps.com launcher as a portable app, so you can browse in privacy on your iPod, USB flash drive, portable hard drive, etc. It has all the same features as Netbeans, plus, it leaves no personal information behind on the machine you run it on, so you can take it with you wherever you go.
 
 ## Features
-* Runs a full copy of the Netbeans editor.
+* Runs a full copy of the Netbeans IDE.
 * Completely portable - runs off a USB, cloud drive (DropBox, iCloud drive, OneDrive, etc) or hard drive.
 * Does not require administrator privileges, works for any user.
 * No need for any external software - simply download extract and run!
@@ -23,4 +23,4 @@ Netbeans Portable is the Netbeans text editor packaged with a PortableApps.com l
 ## License
 
 * Portable application code released under [the MIT license](LICENSE).
-* The Netbeans editor is released under [the CDDL and GPLv2 license](https://netbeans.org/about/legal/license.html).
+* The Netbeans IDE is released under [the CDDL and GPLv2 license](https://netbeans.org/about/legal/license.html).
