@@ -8,7 +8,7 @@ Netbeans Portable is the Netbeans text editor packaged with a PortableApps.com l
 * Runs a full copy of the Netbeans IDE.
 * Completely portable - runs off a USB, cloud drive (DropBox, iCloud drive, OneDrive, etc) or hard drive.
 * Does not require administrator privileges, works for any user.
-* No need for any external software - simply download extract and run-!
+* No need for any external software - simply download extract and run!
 * Packaged in PortableApps.com format for easy integration.
 
 ## System Requirements
