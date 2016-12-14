@@ -10,7 +10,7 @@ it leaves no personal information behind on the machine you run it on, so you
 can take it with you wherever you go.
 
 ## Download
-All downloads available [in the Relases section][1]. NetBeans Portable comes in
+All downloads available [in the Releases section][1]. NetBeans Portable comes in
 3 flavours (Complete, JavaSE and PHP), each as an online installer and complete
 zip file.
 
