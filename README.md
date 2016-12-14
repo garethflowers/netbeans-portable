@@ -1,23 +1,23 @@
-# Netbeans Portable
+# NetBeans Portable
 
-Netbeans is an IDE that allows you to quickly and easily develop desktop, mobile
+NetBeans is an IDE that allows you to quickly and easily develop desktop, mobile
 and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.
 
-Netbeans Portable is the Netbeans text editor packaged with a PortableApps.com
+NetBeans Portable is the NetBeans text editor packaged with a PortableApps.com
 launcher as a portable app, so you can browse in privacy on your iPod, USB flash
-drive, portable hard drive, etc. It has all the same features as Netbeans, plus,
+drive, portable hard drive, etc. It has all the same features as NetBeans, plus,
 it leaves no personal information behind on the machine you run it on, so you
 can take it with you wherever you go.
 
 ## Download
-All downloads available [in the Relases section][1]. Netbeans Portable comes in
+All downloads available [in the Relases section][1]. NetBeans Portable comes in
 3 flavours (Complete, JavaSE and PHP), each as an online installer and complete
-zip file. 
+zip file.
 
  [1]: https://github.com/garethflowers/netbeans-portable/releases/latest
- 
+
 ## Features
-* Runs a full copy of the Netbeans IDE.
+* Runs a full copy of the NetBeans IDE.
 * Completely portable - runs off a USB, cloud drive (DropBox, iCloud drive,
   OneDrive, etc) or hard drive.
 * Does not require administrator privileges, works for any user.
@@ -33,14 +33,14 @@ zip file.
 
 ## Credits
 
-* Netbeans Portable is a redistribution of the [Netbeans][3] IDE.
+* NetBeans Portable is a redistribution of the [NetBeans][3] IDE.
 
  [3]: https://netbeans.org/
 
 ## License
 
 * Portable application code released under [the MIT license][4].
-* The Netbeans IDE is released under [the CDDL and GPLv2 license][5].
+* The NetBeans IDE is released under [the CDDL and GPLv2 license][5].
 
  [4]: LICENSE
  [5]: https://netbeans.org/about/legal/license.html
