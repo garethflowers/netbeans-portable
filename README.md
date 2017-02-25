@@ -42,5 +42,5 @@ zip file.
 * Portable application code released under [the MIT license][4].
 * The NetBeans IDE is released under [the CDDL and GPLv2 license][5].
 
- [4]: https://github.com/garethflowers/netbeans-portable/blob/master/LICENSE
+ [4]: https://raw.githubusercontent.com/garethflowers/netbeans-portable/master/LICENSE
  [5]: https://netbeans.org/about/legal/license.html
